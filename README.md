@@ -1,4 +1,4 @@
-## Towns
+## Towns ads
 # Exercise for students in the teamwork course at SoftUni-Svetlina @Software Engineering cource
 
 # Roles
